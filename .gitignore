@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.flaskenv
+
+# Data directories (as seen in the image)
+data/
+notebook/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# API Keys and sensitive information
+*.key
+*.pem
+*.env
+api_keys.py # Or any file holding API keys
+
+# Log files
+*.log
+logs/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/

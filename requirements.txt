@@ -1,0 +1,10 @@
+llama-parse
+nest_asyncio
+faiss-cpu
+sentence-transformers
+rank_bm25
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
