@@ -12,10 +12,6 @@ __pycache__/
 .env
 .flaskenv
 
-# Data directories (as seen in the image)
-data/
-notebook/
-
 # Editor-specific files
 .vscode/
 .idea/
